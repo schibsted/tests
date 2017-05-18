@@ -1,6 +1,7 @@
 # Schibsted tests
 
-These are the tests we give to people we want to work with.
+These are the tests we give to people we want to work with (and if you're here,
+that must be you)!
 
 ### Node.js
 
