@@ -5,7 +5,7 @@ that must be you)!
 
 ## The tests
 
-### Node.js
+#### APIs
 
 * [Application configuration service](https://github.com/schibsted/tests/blob/master/APPLICATION_CONFIGURATION_SERVICE.md)
 
