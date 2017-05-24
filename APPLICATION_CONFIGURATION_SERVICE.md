@@ -1,9 +1,9 @@
 # Application configuration service
 
-This is something we’ve made for Omni, and we’d like to see how you’d do it. Your task is to build an API for a microservice where a client can…
+This is something we’ve made for Omni, and we’d like to see how you’d do it. Your task is to build an API for a microservice where…
 
-* … store a `key` and a `value` pair for a given `client` and `version`.
-* … get all changed `key` and `value` pairs since a given revision for a given `client` and `version`.
+* … an administrator can store a `key` and a `value` pair for a given `client` and `version`.
+* … a client can get all changed `key` and `value` pairs since a given revision for a given `client` and `version`.
 
 We expect that you spend in the order of ~3 hours and write ~200 lines of code. Beautiful, maintainable code. We're almost pedantic about it, and we hope you are, too! When you're finished, please put the code on GitHub or send it to us.
 
