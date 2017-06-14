@@ -7,6 +7,8 @@ This is something we’ve made for Omni, and we’d like to see how you’d do i
 
 We expect that you spend in the order of ~3 hours and write ~200 lines of code. Beautiful, maintainable code. We're almost pedantic about it, and we hope you are, too! Please tend to it with the care that you would for production code, and if there's something that you'd have liked to do but didn't have time for then please put it in the README so we can give you some credit for it anyway.
 
+You may have been asked to do this test in a particular language, but besides that you're use all the libraries and services that you fancy (and we're curious to see which they are).
+
 When you're finished, please put the code on GitHub or send it to us.
 
 ## Specification
