@@ -95,19 +95,19 @@ HTTP/1.1 304 Not Modified
 ```http
 HTTP/1.1 GET /config/ios/266
 
-HTTP/1.1 304 Not Modified
+HTTP/1.1 404 Not Found
 ```
 
 ```http
 HTTP/1.1 GET /config/ios/268
 
-HTTP/1.1 304 Not Modified
+HTTP/1.1 404 Not Found
 ```
 
 ```http
 HTTP/1.1 GET /config/android/267
 
-HTTP/1.1 304 Not Modified
+HTTP/1.1 404 Not Found
 ```
 
 ```http
