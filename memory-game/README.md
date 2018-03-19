@@ -4,7 +4,7 @@ We would like for you to implement the [Memory game](https://en.wikipedia.org/wi
 
 You are free to implement this however you see fit, but please do not use any frameworks or non-utility libraries (by utility libraries we mean libraries such as lodash, rambda, underscore, etc). We expect you to spend no more than 3 hours on the task (this is both to not put too much work on you, and also to scope how much code we will go through in the interview).
 
-Try to keep in mind that we might want to extend this game later on (maybe even during the interview), so think about the readability and structure of your code.
+Try to keep in mind that we might want to extend this game later on (maybe even during the interview), and that we'd like to see the kind of code you'd write in our team, so think about the readability and structure of your code.
 
 There are a lot of areas you could choose to focus on in this game, for instance:
 
