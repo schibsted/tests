@@ -5,9 +5,14 @@ that must be you)!
 
 ## The tests
 
-#### APIs
+#### Backend
 
-* [Application configuration service](https://github.com/schibsted/tests/blob/master/APPLICATION_CONFIGURATION_SERVICE.md)
+* [Application configuration service](https://github.com/schibsted/tests/blob/master/application-configuration-service/README.md)
+
+#### Frontend
+
+* [Memory game](https://github.com/schibsted/tests/blob/master/memory-game/README.md)
+
 
 ## The jobs
 

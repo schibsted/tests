@@ -1,4 +1,4 @@
-#  Memory
+#  Memory game
 
 We would like for you to implement the [Memory game](https://en.wikipedia.org/wiki/Concentration_(game)). This is a card game where pairs of cards contain images, such that for each card, there is exactly one other card with the same image. The cards are placed face-down on a surface. A player chooses any two cards and flips them face-up. If they happen to have the same image, they will stay face-up — otherwise they should be flipped back. This continues until all cards are face-up.
 
