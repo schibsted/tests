@@ -18,6 +18,4 @@ You'll probably end up spending more than 3 hours if you try to do it all, thoug
 
 It's helpful if you document your game and explain some of the decisions or assumptions you've made. Given the time constraint, please feel free to note the things you'd have liked to do next, too.
 
-We have created a starter kit project to help you with boilerplate. It includes babel, sass, webpack and webpack-dev-server. There is also a directory called ‘example-image-server’, which contains — yes! An example image server. So if you prefer a super-simple (and local) way to get images for your cards, you can use that. You can find this starter kit attached in this email. *Using the starter kit is completely optional though, so feel free to either use all of it, some of it or none at all.*
-
 Don't hesitate to get in touch with us at any time throughout this task if you have any questions. We realise and appreciate that you’re taking personal time out to complete this task, so we’re happy to help.
