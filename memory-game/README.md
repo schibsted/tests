@@ -11,8 +11,10 @@ There are a lot of areas you could choose to focus on in this game, for instance
 * Finding awesome cat, ninja or catninja pictures to put on the cards. Static or dynamic?
 * Does a player get points? Is there timing involved? A scoreboard?
 * Single-player? Local multi-player? Networked multi-player?
-* Accessibility?
+* Accessibility? Controlled by keyboard?
 * Responsive design that works for mobile and desktop?
+* Security and cheat-proof?
+* Sounds?
 
 You'll probably end up spending more than 3 hours if you try to do it all, though, so we advise that you choose just a few.
 
